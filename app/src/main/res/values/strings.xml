@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kiedy Wolne</string>
+
+    <string name="new_years_day">Nowy Rok</string>
+    <string name="epiphany_day">Trzech Króli</string>
+    <string name="easter_day">Wielkanoc</string>
+    <string name="easter_monday_day">Poniedziałek Wielkanocny</string>
+    <string name="labour_day">Święto Pracy</string>
+    <string name="constitution_day">Święto Konstytucji 3 Maja</string>
+    <string name="pentecost_day">Zielone Świątki</string>
+    <string name="corpus_day">Boże ciało</string>
+    <string name="military_day">Święto Wojska Polskiego</string>
+    <string name="all_saints_day">Wszystkich Świętych</string>
+    <string name="independence_day">Święto Niepodległości</string>
+    <string name="christmas_day">Boże Narodzenie (pierwszy dzień)</string>
+    <string name="second_christmas_day">Boże Narodzenie (drugi dzień)</string>
+
+</resources>
